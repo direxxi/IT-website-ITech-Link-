@@ -925,6 +925,9 @@ p.free {
         align-items: center;
         gap: 40px;
     }
+        .contact_us {
+            margin-right: 15px;
+        }
 
     .side1,
     .side2 {
@@ -1057,6 +1060,9 @@ p.free {
     .contact_us {
         width: 100%;
         text-align: center;
+    }
+    .contact_us{
+        margin-right: 15px;
     }
 
     .title {
